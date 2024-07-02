@@ -4,11 +4,12 @@ This repository contains MATLAB scripts designed to analyze the impact of 1 Hz r
 
 Author: Xiwei She, Ph.D.
 
-Usage: The scripts are named and indexed to be run sequentially. For instance, to obtain all wPLI results comparing pre- and post-rTMS under both real and sham conditions, execute the four scripts named rTMSEffects_1_*_wPLIConnectivity_*.m in order.
+Usage: The scripts are named and indexed to be run sequentially. For instance, to obtain all wPLI results comparing pre- and post-rTMS under both real and sham conditions, execute the four scripts named rTMSEffects_1_'*'_wPLIConnectivity_'*'.m in order.
 
 Dependencies:
 Some scripts call functions located in the toolbox folder. Due to GitHub's file upload limitations, you need to download the eeglab and fieldtrip toolboxes separately from their official websites:
 EEGLAB: https://sccn.ucsd.edu/eeglab/index.php
+
 FieldTrip: https://www.fieldtriptoolbox.org/
 After downloading, add them to your MATLAB path. The scripts include the necessary lines to facilitate this.
 
