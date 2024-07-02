@@ -17,6 +17,6 @@ After downloading, add them to your MATLAB path. The scripts include the necessa
 
 An example dataset is provided in the exampleData folder. This dataset contains four .set files corresponding to pre- and post-real-rTMS, and pre- and post-sham-rTMS conditions. Use this dataset to test the wPLI and TEP analysis methodologies described in the associated paper. 
 
-# While fully de-identified, this dataset is intended for testing purposes only. Please do not distribute it without the authors' permission.
+Please be awared that although the example dataset is fully de-identified, it is intended for testing purposes only. Please do not distribute it without the authors' permission.
 
 Please contact xiweishe@stanford.edu or fbaumer@stanford.edu for any questions
